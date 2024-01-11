@@ -95,47 +95,6 @@ Learn how to customize every part of this theme by using Visual Studio Code API.
 ![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmineblocks.com%2F1%2Fwiki%2Fimages%2F5%2F59%2FEmpty.png&f=1&nofb=1&ipt=272d1bf6ef886b68f90fc4b76685cf3d69c29691db2a6136a83a4f99e53db919&ipo=images)
 
 
-## Official Portings
-
-You can find all the official portings and resources [here](https://github.com/wpconsulate/lynkdom-material-theme/discussions/1279).
-
-![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmineblocks.com%2F1%2Fwiki%2Fimages%2F5%2F59%2FEmpty.png&f=1&nofb=1&ipt=272d1bf6ef886b68f90fc4b76685cf3d69c29691db2a6136a83a4f99e53db919&ipo=images)
-
-
-## Want to use the legacy version?
-
-If you're looking for the deprecated Community Material Theme [you can find it here](https://github.com/wpconsulate/lynkdom-material-theme/discussions/1278). This version has been deprecated and removed from the official marketplace.
-
-![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmineblocks.com%2F1%2Fwiki%2Fimages%2F5%2F59%2FEmpty.png&f=1&nofb=1&ipt=272d1bf6ef886b68f90fc4b76685cf3d69c29691db2a6136a83a4f99e53db919&ipo=images)
-
-## Contributors
-
-This project exists thanks to all the people who contribute. [[Contribute]](CONTRIBUTING.md).
-<a href="graphs/contributors"><img src="https://opencollective.com/material-theme/contributors.svg?width=890" /></a>
-
-## Backers
-
-Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/material-theme#backer)]
-
-<a href="https://opencollective.com/material-theme#backers" target="_blank"><img src="https://opencollective.com/material-theme/backers.svg?width=890"></a>
-
-
-## Sponsors
-
-Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/material-theme#sponsor)]
-
-<a href="https://opencollective.com/material-theme/sponsor/0/website" target="_blank"><img src="https://opencollective.com/material-theme/sponsor/0/avatar.svg"></a>
-<a href="https://opencollective.com/material-theme/sponsor/1/website" target="_blank"><img src="https://opencollective.com/material-theme/sponsor/1/avatar.svg"></a>
-<a href="https://opencollective.com/material-theme/sponsor/2/website" target="_blank"><img src="https://opencollective.com/material-theme/sponsor/2/avatar.svg"></a>
-<a href="https://opencollective.com/material-theme/sponsor/3/website" target="_blank"><img src="https://opencollective.com/material-theme/sponsor/3/avatar.svg"></a>
-<a href="https://opencollective.com/material-theme/sponsor/4/website" target="_blank"><img src="https://opencollective.com/material-theme/sponsor/4/avatar.svg"></a>
-<a href="https://opencollective.com/material-theme/sponsor/5/website" target="_blank"><img src="https://opencollective.com/material-theme/sponsor/5/avatar.svg"></a>
-<a href="https://opencollective.com/material-theme/sponsor/6/website" target="_blank"><img src="https://opencollective.com/material-theme/sponsor/6/avatar.svg"></a>
-<a href="https://opencollective.com/material-theme/sponsor/7/website" target="_blank"><img src="https://opencollective.com/material-theme/sponsor/7/avatar.svg"></a>
-<a href="https://opencollective.com/material-theme/sponsor/8/website" target="_blank"><img src="https://opencollective.com/material-theme/sponsor/8/avatar.svg"></a>
-<a href="https://opencollective.com/material-theme/sponsor/9/website" target="_blank"><img src="https://opencollective.com/material-theme/sponsor/9/avatar.svg"></a>
-
----
 
 <p align="center"> <img src="https://lynkdom.gallerycdn.vsassets.io/extensions/material-theme/vsc-material-theme/0.0.14/1494970083238/Microsoft.VisualStudio.Services.Icons.Default" width=16 height=16/> Copyright &copy; 2019 Mattia Astorino & Alessio Occhipinti</p>
 
